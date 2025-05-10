@@ -1,4 +1,4 @@
-My Docs
+FuncProg
 =======
 
 .. toctree::

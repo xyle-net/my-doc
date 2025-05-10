@@ -1,7 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
 project = 'My Docs'
-author = 'Your Name'
+author = 'MASHULIK'
 release = '0.1'
 
 extensions = []

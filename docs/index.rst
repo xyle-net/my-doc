@@ -3,6 +3,10 @@ My Docs
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Содержание:
 
    intro
+   overview
+   features
+   install
+   usage
